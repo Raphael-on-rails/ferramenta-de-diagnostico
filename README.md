@@ -8,6 +8,7 @@ Ideal para estudantes e iniciantes em redes que desejam praticar varredura e mon
 bash
 
 git clone https://github.com/Raphael-on-rails/ferramenta-de-diagnostico
+
 cd ferramenta-de-diagnostico
 
 2. Dê permissão de execução ao script:
