@@ -20,7 +20,8 @@ chmod +x script.sh
 ./script.sh
 
 
-Futuras Melhorias
+Futuras Melhorias:
+
 Envio automático do relatório por email
 
 Agendamento do script para rodar periodicamente
