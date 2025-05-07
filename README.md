@@ -1,8 +1,10 @@
 Este projeto é um script Bash que realiza diagnósticos dos dispositivos conectados à sua rede e gera um **relatório visual** em HTML com gráficos interativos.  
 Ideal para estudantes e iniciantes em redes que desejam praticar varredura e monitoramento de redes locais.
+##
 
-📂 Como Usar
-
+##
+* Como Usar*
+##
 1. Clone o repositório:
 
 
@@ -26,19 +28,19 @@ Ideal para estudantes e iniciantes em redes que desejam praticar varredura e mon
 ##
 
 
-
+##
 Futuras Melhorias:
 
 ##
 Envio automático do relatório por email
-##
+
 
 Agendamento do script para rodar periodicamente
-##
+
 
 Exportação do relatório em PDF
 
-##
+
 
 
 ![1](https://github.com/user-attachments/assets/9f8b0755-d7b0-4f26-a494-a5519dcf5b6a)
