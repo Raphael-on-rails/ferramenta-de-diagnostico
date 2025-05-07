@@ -20,13 +20,23 @@ chmod +x script.sh
 ./script.sh
 
 
+
+
+
+
 Futuras Melhorias:
+
 
 Envio automático do relatório por email
 
+
 Agendamento do script para rodar periodicamente
 
+
 Exportação do relatório em PDF
+
+
+
 
 ![1](https://github.com/user-attachments/assets/9f8b0755-d7b0-4f26-a494-a5519dcf5b6a)
 
