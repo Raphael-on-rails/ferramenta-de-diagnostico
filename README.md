@@ -3,7 +3,7 @@ Ideal para estudantes e iniciantes em redes que desejam praticar varredura e mon
 ##
 
 ##
-!Como Usar:
+Como Usar:
 
 1. Clone o repositório:
 
