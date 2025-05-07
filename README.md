@@ -10,42 +10,42 @@ Você pode visualizar a documentação completa clicando no link abaixo:
 ##
 
 ##
-#Como Usar:
+# Como Usar:
 
-##1. Clone o repositório:
+## 1. Clone o repositório:
 
 
-  ###git clone https://github.com/Raphael-on-rails/ferramenta-de-diagnostico
+  ### git clone https://github.com/Raphael-on-rails/ferramenta-de-diagnostico
 ##
 
-##2. acesse o repositorio
+## 2. acesse o repositorio
    
-  ###cd ferramenta-de-diagnostico
+  ### cd ferramenta-de-diagnostico
 ##
-##3. Dê permissão de execução ao script:
+## 3. Dê permissão de execução ao script:
 
-  ###chmod +x script.sh
+  ### chmod +x script.sh
   ##
 
-##4. Execute:
+## 4. Execute:
 
-  ###./script.sh
-
-
-##
+  ### ./script.sh
 
 
 ##
-#Futuras Melhorias:
 
 
-##Envio automático do relatório por email
+##
+# Futuras Melhorias:
 
 
-##Agendamento do script para rodar periodicamente
+## Envio automático do relatório por email
 
 
-##Exportação do relatório em PDF
+## Agendamento do script para rodar periodicamente
+
+
+## Exportação do relatório em PDF
 ##
 
 
