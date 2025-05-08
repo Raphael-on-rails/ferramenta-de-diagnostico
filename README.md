@@ -7,7 +7,7 @@
 ### Você pode visualizar a documentação completa clicando no link abaixo:
 
 [📚 Acessar Documentação (PDF)](./funcionamento(documentacao).pdf)
-##
+
 
 # Como Usar:
 
