@@ -38,13 +38,13 @@
 # Futuras Melhorias:
 
 
-## Envio automático do relatório por email
+- Envio automático do relatório por email
 
 
-## Agendamento do script para rodar periodicamente
+- Agendamento do script para rodar periodicamente
 
 
-## Exportação do relatório em PDF
+- Exportação do relatório em PDF
 ##
 
 
