@@ -15,17 +15,17 @@
 
 
   ### git clone https://github.com/Raphael-on-rails/ferramenta-de-diagnostico
-##
+
 
 ## 2. acesse o repositorio
    
   ### cd ferramenta-de-diagnostico
-##
+
 ## 3. Dê permissão de execução ao script:
 
   ### chmod +x script.sh
-  ##
-   5. abra o script e adicione o ip dos seus dispositivos
+  
+  ## 5. abra o script e adicione o ip dos seus dispositivos
      
 ## 4. Execute:
 
@@ -35,7 +35,7 @@
 ##
 
 
-##
+
 # Futuras Melhorias:
 
 
