@@ -25,7 +25,8 @@
 
   ### chmod +x script.sh
   ##
-
+   5. abra o script e adicione o ip dos seus dispositivos
+     
 ## 4. Execute:
 
   ### ./script.sh
